@@ -1,0 +1,12 @@
+# ninja log v5
+77	366	7979776172257941	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	df5c3188de9006f6
+369	565	7979776174275018	C:/Users/mitha/Unity/2D/Game2/Colour Journey 2D/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5r5e3p1u/obj/armeabi-v7a/libswappywrapper.so	1d23f6ae64da8381
+37	1838	7979776186830581	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	56ca4c5df174bb36
+45	1851	7979776186830581	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	ebb7d2671f99813a
+19	1854	7979776186997046	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	a78878d528a5465b
+55	1904	7979776187597246	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	ad62624efa7c20fc
+11	1945	7979776188028813	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	ee75009844c1118d
+65	2048	7979776189069764	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	9cf1aae2ffe5a1c8
+27	2182	7979776190421274	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	7e0012ebdc6b7f41
+1	2257	7979776191146452	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	baedb92eed4b8a85
+2257	2363	7979776192282904	C:/Users/mitha/Unity/2D/Game2/Colour Journey 2D/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5r5e3p1u/obj/armeabi-v7a/libgame.so	e8347bd9f28987cd
