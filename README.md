@@ -84,14 +84,14 @@ Built in Unity with a focus on scalable architecture, responsive gameplay system
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="Screenshots/1.png" width="200"/>
-  <img src="Screenshots/2.png" width="200"/>
-  <img src="Screenshots/3.png" width="200"/>
+  <img src="Assets/Screenshots/1.png" width="200"/>
+  <img src="Assets/Screenshots/2.png" width="200"/>
+  <img src="Assets/Screenshots/3.png" width="200"/>
 </p>
 
 <p align="center">
-  <img src="Screenshots/4.png" width="200"/>
-  <img src="Screenshots/5.png" width="200"/>
+  <img src="Assets/Screenshots/4.png" width="200"/>
+  <img src="Assets/Screenshots/5.png" width="200"/>
 </p>
 
 ---
