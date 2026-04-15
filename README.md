@@ -4,6 +4,8 @@ A high-speed color-based arcade experience where precision timing, pattern recog
 
 Built in Unity with a focus on scalable architecture, responsive gameplay systems, and performance-optimized mobile execution.
 
+Reference Game: Colour Switch
+
 ---
 
 ## 🎮 Core Gameplay Loop
